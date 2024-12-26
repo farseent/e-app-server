@@ -48,29 +48,6 @@
   ],
   "orders": [
     {
-      "id": "3231",
-      "userId": "65e2",
-      "userName": "Farseen ",
-      "items": [
-        {
-          "id": "1",
-          "name": "iPhone 14 Pro",
-          "price": 99999,
-          "image": "https://www.imagineonline.store/cdn/shop/files/iPhone_14_Pro_Deep_Purple_PDP_Image_Position-1a__WWEN.jpg?v=1692348972",
-          "description": "6GB RAM + 128GB Storage | 6.1-inch Super Retina XDR Display | IP68 Water & Dust Resistance | A15 Bionic Chip | 12MP Dual Rear Cameras | 20-Hour Video Playback | Fast Charging Support",
-          "qty": 2
-        }
-      ],
-      "total": 199998,
-      "paymentMethod": "Google Pay",
-      "address": {
-        "name": "Farseen ",
-        "place": "Mampuram, Malappuram",
-        "number": "7736146247"
-      },
-      "date": "2024-12-24T05:24:43.173Z"
-    },
-    {
       "id": "3cc0",
       "userId": "180f",
       "userName": "Name",
